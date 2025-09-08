@@ -8,6 +8,7 @@ AND,((PROCESS-NAME, Transmission),(PROTOCOL,TCP))
 AND,((PROCESS-NAME, Transmission),(PROTOCOL,UDP))
 
 SRC-IP,198.19.249.165
+DOMAIN,v4.plex.tv
 DOMAIN,ipify.org
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,bugsnag.com
