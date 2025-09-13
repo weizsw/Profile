@@ -11,8 +11,8 @@ SRC-IP,198.19.249.165
 DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,plex.direct
 DOMAIN,ipify.org
-DOMAIN,test-ipv6.com
-DOMAIN,ipv6-test.com
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipv6-test.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,tup.yhdm.so
